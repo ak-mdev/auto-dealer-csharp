@@ -1,0 +1,28 @@
+I:\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\ResolveAssemblyReference.cache
+I:\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\T19_Auto_Dealer_JJR.AutoDealer.resources
+I:\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\T19_Auto_Dealer_JJR.Properties.Resources.resources
+I:\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\T19 Auto Dealer JJR.csproj.GenerateResource.Cache
+E:\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\ResolveAssemblyReference.cache
+E:\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\T19_Auto_Dealer_JJR.AutoDealer.resources
+E:\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\T19_Auto_Dealer_JJR.Properties.Resources.resources
+E:\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\T19 Auto Dealer JJR.csproj.GenerateResource.Cache
+E:\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\bin\Debug\T19 Auto Dealer JJR.exe
+E:\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\bin\Debug\T19 Auto Dealer JJR.pdb
+E:\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\T19 Auto Dealer JJR.exe
+E:\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\T19 Auto Dealer JJR.pdb
+F:\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\T19 Auto Dealer JJR.exe
+F:\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\T19 Auto Dealer JJR.pdb
+F:\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\bin\Debug\T19 Auto Dealer JJR.exe
+F:\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\bin\Debug\T19 Auto Dealer JJR.pdb
+F:\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\ResolveAssemblyReference.cache
+F:\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\T19_Auto_Dealer_JJR.AutoDealer.resources
+F:\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\T19_Auto_Dealer_JJR.Properties.Resources.resources
+F:\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\T19 Auto Dealer JJR.csproj.GenerateResource.Cache
+H:\Seagate Backup\EXCEL-DB7ZN5B1\2GB C# JJR\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\T19 Auto Dealer JJR.exe
+H:\Seagate Backup\EXCEL-DB7ZN5B1\2GB C# JJR\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\T19 Auto Dealer JJR.pdb
+H:\Seagate Backup\EXCEL-DB7ZN5B1\2GB C# JJR\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\bin\Debug\T19 Auto Dealer JJR.exe
+H:\Seagate Backup\EXCEL-DB7ZN5B1\2GB C# JJR\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\bin\Debug\T19 Auto Dealer JJR.pdb
+H:\Seagate Backup\EXCEL-DB7ZN5B1\2GB C# JJR\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\ResolveAssemblyReference.cache
+H:\Seagate Backup\EXCEL-DB7ZN5B1\2GB C# JJR\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\T19_Auto_Dealer_JJR.AutoDealer.resources
+H:\Seagate Backup\EXCEL-DB7ZN5B1\2GB C# JJR\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\T19_Auto_Dealer_JJR.Properties.Resources.resources
+H:\Seagate Backup\EXCEL-DB7ZN5B1\2GB C# JJR\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\T19 Auto Dealer JJR.csproj.GenerateResource.Cache

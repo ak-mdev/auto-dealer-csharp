@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T19 Auto Dealer JJR", "T19 Auto Dealer JJR\T19 Auto Dealer JJR.csproj", "{BCC1BB9E-4F35-4DC1-945C-0CA0D6AD34BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCC1BB9E-4F35-4DC1-945C-0CA0D6AD34BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC1BB9E-4F35-4DC1-945C-0CA0D6AD34BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC1BB9E-4F35-4DC1-945C-0CA0D6AD34BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC1BB9E-4F35-4DC1-945C-0CA0D6AD34BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

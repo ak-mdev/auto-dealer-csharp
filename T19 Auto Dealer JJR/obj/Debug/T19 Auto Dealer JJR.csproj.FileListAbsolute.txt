@@ -1,0 +1,2 @@
+G:\Seagate Backup\EXCEL-DB7ZN5B1\2GB C# JJR\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\T19 Auto Dealer JJR.exe
+G:\Seagate Backup\EXCEL-DB7ZN5B1\2GB C# JJR\PROG-316\Tutorial19\Exercises\T19 Auto Dealer JJR\T19 Auto Dealer JJR\obj\Debug\T19 Auto Dealer JJR.pdb
